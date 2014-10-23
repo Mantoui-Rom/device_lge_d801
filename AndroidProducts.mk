@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_d801.mk
+    $(LOCAL_DIR)/mantoui_d801.mk
